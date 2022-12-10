@@ -1,6 +1,6 @@
 ## Give credit to the creators
 
-The non self-modified commands are created by Team Zerber. The config files are made by another Replit user.
+The non self-modified commands are created by Team Zerber. The config files are made by a Replit user @TheDrone7
 
 ## Setup
 
