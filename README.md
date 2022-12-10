@@ -1,3 +1,7 @@
+## Give credit to the creators
+
+The non self-modified commands are created by Team Zerber. The config files are made by another Replit user.
+
 ## Setup
 
 First of all, go to [discord developer dashboard](https://discord.com/developers/applications/) and choose the bot you want to host, go to the bot tab, and click on `Regenerate token`, and then copy the token.
