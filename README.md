@@ -1,4 +1,4 @@
-## Developers
+## Creators
 
 Credits to Replit user @TheDrone7 for making config files and @jwklong, @zerberdev for commands and other config files.
 
