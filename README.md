@@ -1,6 +1,6 @@
-## Give credit to the creators
+## Developers
 
-The non self-modified commands are created by Team Zerber. The config files are made by a Replit user @TheDrone7
+Credits to Replit user @TheDrone7 for making config files and @jwklong, @zerberdev for commands and other config files.
 
 ## Setup
 
