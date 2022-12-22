@@ -1,6 +1,7 @@
 ## Creators
 
-Credits to Replit user @TheDrone7 for making config files and @jwklong, @zerberdev for commands and other config files.
+**FILES ONLY WORK IN REPLIT.**
+The creator of all files is Replit user [@TheDrone7](https://repl.it/@TheDrone7) and commands by Replit users [@jwklong](https://repl.it/@jwklong) and [@zerberddev](https://repl.it/@zerberdev). This is a configured Replit template and you can [start using](https://repl.it/@TheDrone7/Discordjs-starter) it right now in Replit!
 
 ## Setup
 
